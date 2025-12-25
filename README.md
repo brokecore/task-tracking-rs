@@ -1,3 +1,6 @@
+# Dropped project, will work on later when i have bettter rust skills lmao
+
+
 ## TODO (not in order)
 1. Json formatting
 2. Make editing and deleting tasks happen in code itself
